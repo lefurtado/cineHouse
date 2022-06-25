@@ -1,0 +1,40 @@
+{
+    "filmes": [
+        {
+            "codigo": 1,
+            "titulo": "Top Gun: Maverick",
+            "duracao": "2h 11m",
+            "atores": [
+                "Tom Cruise",
+                "Miles Teller",
+                "Jennifer Connelly",
+                "Jon Hamm",
+                "Glen Powell",
+                "Lewis Pullman",
+                "Charles Parnell",
+                "Bashir Salahuddin"
+            ],
+            "anoDeLancamento": 2022,
+            "emCartaz": true
+        },
+        {
+            "codigo": 2,
+            "titulo": "Doutor Estranho no Multiverso da Loucura",
+            "duracao": "2h 6m",
+            "atores": [
+                "Benedict Cumberbatch",
+                "Elizabeth Olsen",
+                "Xochitl Gomez",
+                "Chiwetel Ejiofor",
+                "Rachel McAdams",
+                "Benedict Wong",
+                "Michael Stuhlbarg",
+                "Julian Hilliard",
+                "Jett Klyne",
+                "Patrick Stewart"
+            ],
+            "anoDeLancamento": 2022,
+            "emCartaz": false
+        }
+    ]
+}
